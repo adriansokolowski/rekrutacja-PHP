@@ -1,4 +1,5 @@
-# rekrutacja-PHP
+## rekrutacja-PHP
+solution of recruitment tasks.
 
-t
-a
+## Stack
+PHP
